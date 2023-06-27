@@ -1,0 +1,5 @@
+pip install pyodbc
+pip install ftplib
+pip install pandas
+pip install configparser
+pip install snowflake-connector-python
